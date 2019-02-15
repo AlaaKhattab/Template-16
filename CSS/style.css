@@ -1,0 +1,270 @@
+/***************************************************************/
+/***********************  body  ********************************/
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#content{
+    width: 1000px;
+    align-content: center;
+    margin: auto;
+}
+
+
+
+
+/***************************************************************/
+/***********************  navigation  **************************/
+#navigation{
+    height: 50px;
+}
+
+#navigation ul{
+    padding-top: 10px;
+}
+
+#navigation ul li{
+    list-style: none;
+    margin-left: 100px;
+}
+
+#navigation ul li a{
+    text-decoration: none;
+    float: left;
+    margin-right: 100px;
+    font-family: sans-serif;
+    color: #EF233C ;
+    font-weight: bold;
+}
+
+/***************************************************************/
+/***********************  about  *******************************/
+#about{
+    height: 350px;
+    background-color: #2B2D42;
+    margin-bottom: 0px;
+}
+
+#about img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 90px;
+    margin-top: 50px;
+    border-radius: 100px;
+}
+
+#about #info{
+    margin-left: 30px;
+    padding-left: 20px;
+    float: left;
+    width: 630px;
+    color: white;
+}
+
+#about #info h1{
+    font-family: Caveat;
+    font-size: 60px;
+    font-weight: lighter;
+}
+
+#about #info h2{
+    font-family: Caveat;
+    margin-top: -30px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+#about #info p{
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+
+#about input{
+    float: left;
+    width: 120px;
+    height: 40px;
+    background-color: #EF233C;
+    color: white;
+    position: absolute;
+    top: 375px;
+    right: 175px;
+}
+
+/***************************************************************/
+/***********************  work_experience  *********************/
+#work_experience{
+    height: 1000px;
+    padding-left: 50px;
+    font-family: sans-serif;
+    background-color: #EEEEEE;
+    margin-top: -33px;
+}
+
+#work_experience h2{
+    font-family: Caveat;
+    font-size: 40px;
+    font-weight: lighter;
+    padding-top: 40px;
+}
+
+#work_experience #block1{
+    width: 900px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+#work_experience #block2{
+    width: 900px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+#work_experience #block3{
+    width: 900px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+
+#work_experience .work_header{
+    width: 200px;
+    float: left;
+}
+
+#work_experience .work_details{
+    margin-top: 5px;
+    width: 600px;
+    float: left;
+    margin-left: 100px;
+}
+
+
+
+#work_experience h3{
+    width: 250px;
+}
+#work_experience h4{
+    font-weight: lighter;
+    font-size: 15px;
+    width: 250px;
+    margin-top: -10px;
+}
+
+#work_experience a{
+    color: #EF233C;
+}
+
+/***************************************************************/
+/***********************  education  ***************************/
+#education{
+    padding-left: 50px;
+    height: 500px;
+    font-family: sans-serif;
+    margin-top: -28px;
+}
+
+#education h1{
+    padding-top: 40px;
+    font-family: Caveat;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+#education ul li{
+    list-style: none;
+    margin-bottom: 40px;
+}
+
+#education ul li h2{
+    margin-bottom: -10px;
+    font-size: 20px;
+}
+
+#education ul li p{
+    margin-bottom: -10px;
+}
+
+
+
+/***************************************************************/
+/***********************  contact  *****************************/
+#contact{
+    height: 300px;
+    background-color: #2B2D42;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: -35px;
+}
+
+
+#contact h1{
+    color: #8D99AE;
+    font-family: Caveat;
+    font-weight: lighter;
+    font-size: 50px;
+    padding-top: 40px;
+}
+
+#contact ul{
+    width: 800px;
+    height: 50px;
+    margin-left: 80px;
+    padding-top: 10px;
+}
+
+#contact ul li{
+    float: left;
+    list-style: none;
+    
+}
+
+#contact ul li a{
+    float: left;
+    margin-right: 30px;
+    color: #EF233C;
+    font-size: 20px;
+}
+
+#contact img{
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+}
+
+
+#contact p{
+    color: #8D99AE;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
